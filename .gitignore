@@ -24,6 +24,7 @@ files
 *.code-workspace
 *.pmml
 .vscode
+.virtual
 *.jar
 
 # R
